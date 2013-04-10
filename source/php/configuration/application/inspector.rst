@@ -24,6 +24,7 @@ Associative array. All keys are optional:
 :reloadEvent: Event name that will reload the inspector?
 :vertical: Is the appdesk vertical or horizontal ?
 :inputName: Key on which selected values are sent.
+:view: View used to display the inspector.
 
 Model inspector
 ***************
